@@ -20,7 +20,6 @@
 ### DevOps
 
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU%20Bash&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 <!-- ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) -->
